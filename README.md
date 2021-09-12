@@ -1,3 +1,3 @@
-# <++>
+# BTS2
 
-Classes for <++>
+Classes for Estienne's BTS ERPC Year 2
