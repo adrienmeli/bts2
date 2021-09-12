@@ -11,239 +11,205 @@
 \toprule
 Français & English\\
 \midrule
-\cellcolor{gray!6}{accomplir} & \cellcolor{gray!6}{to achieve}\\
-acheter & to purchase\\
-\cellcolor{gray!6}{acier} & \cellcolor{gray!6}{steel}\\
-afficher & to display\\
-\cellcolor{gray!6}{ajouter} & \cellcolor{gray!6}{to add}\\
+\cellcolor{gray!6}{ouvert d'esprit} & \cellcolor{gray!6}{open-minded}\\
+PAO & Desktop Publishing (DTP)\\
+\cellcolor{gray!6}{aimer faire qqch} & \cellcolor{gray!6}{to like doing stg}\\
+ajouter & to add\\
+\cellcolor{gray!6}{assister à une réunion} & \cellcolor{gray!6}{to attend a meeting}\\
 \addlinespace
-alimenter & to feed (fed, fed)\\
-\cellcolor{gray!6}{améliorer} & \cellcolor{gray!6}{to enhance}\\
-améliorer & to improve\\
-\cellcolor{gray!6}{à propos de, à l'égard de} & \cellcolor{gray!6}{regarding}\\
-a sample & un échantillon\\
+attentionné & caring\\
+\cellcolor{gray!6}{avoir peur de qqch} & \cellcolor{gray!6}{to be afraid of stg}\\
+bavard & chatty\\
+\cellcolor{gray!6}{bien aimer faire qqch} & \cellcolor{gray!6}{to enjoy doing stg}\\
+bien conçu & well-designed\\
 \addlinespace
-\cellcolor{gray!6}{à travers quelque chose} & \cellcolor{gray!6}{through}\\
-augmenter & to increase\\
-\cellcolor{gray!6}{autocollants} & \cellcolor{gray!6}{stickers}\\
-avec précision, exactement & accurately\\
-\cellcolor{gray!6}{avoir lieu, se dérouler} & \cellcolor{gray!6}{to take place}\\
-\addlinespace
-bois d'œuvre & timber\\
+\cellcolor{gray!6}{bien s'adapter} & \cellcolor{gray!6}{to fit}\\
+blanchir & to bleach\\
 \cellcolor{gray!6}{brillant} & \cellcolor{gray!6}{glossy}\\
-briller & to shine\\
-\cellcolor{gray!6}{brochures} & \cellcolor{gray!6}{booklets}\\
-bye & au revoir\\
+carton & cardboard (U)\\
+\cellcolor{gray!6}{choisir} & \cellcolor{gray!6}{to choose}\\
 \addlinespace
-\cellcolor{gray!6}{cartes de visite} & \cellcolor{gray!6}{business cards}\\
-célèbre & famous\\
-\cellcolor{gray!6}{charger} & \cellcolor{gray!6}{to load}\\
-commencer & to begin (began, begun)\\
-\cellcolor{gray!6}{correspondre à, bien aller avec} & \cellcolor{gray!6}{to match}\\
+commander qqch & to order stg\\
+\cellcolor{gray!6}{d'apparence professionnelle} & \cellcolor{gray!6}{professional-looking}\\
+de la cire & wax (U)\\
+\cellcolor{gray!6}{de la colle} & \cellcolor{gray!6}{glue (U)}\\
+dorure à chaud & hot foil stamping\\
 \addlinespace
-couper & to trim\\
-\cellcolor{gray!6}{coûts de fonctionnement} & \cellcolor{gray!6}{running costs}\\
-dangereux & hazardous\\
-\cellcolor{gray!6}{d'après, selon} & \cellcolor{gray!6}{according to}\\
-de la poudre & powder\\
-\addlinespace
+\cellcolor{gray!6}{dos carré-collé} & \cellcolor{gray!6}{perfect-binding}\\
+décrire & to describe\\
 \cellcolor{gray!6}{délavé} & \cellcolor{gray!6}{washed out}\\
-de l'encre & ink\\
-\cellcolor{gray!6}{de l'huile} & \cellcolor{gray!6}{oil}\\
-demander, exiger & to require\\
-\cellcolor{gray!6}{dépenser} & \cellcolor{gray!6}{to spend}\\
+dépenser (ou passer du temps) & to spend\\
+\cellcolor{gray!6}{empiler} & \cellcolor{gray!6}{to stack}\\
 \addlinespace
-dépliants & brochures\\
-\cellcolor{gray!6}{des agrafes} & \cellcolor{gray!6}{staples}\\
-des déchets & waste\\
-\cellcolor{gray!6}{des dépenses} & \cellcolor{gray!6}{expenditures}\\
-des économies & savings\\
+encre & ink\\
+\cellcolor{gray!6}{enfance} & \cellcolor{gray!6}{childhood}\\
+enlever & to remove\\
+\cellcolor{gray!6}{essayer de faire qqch} & \cellcolor{gray!6}{to try to do stg}\\
+expédier qqch & to ship out stg\\
 \addlinespace
-\cellcolor{gray!6}{des meubles} & \cellcolor{gray!6}{furniture}\\
-deux fois & twice\\
-\cellcolor{gray!6}{dos carré-collé} & \cellcolor{gray!6}{perfect binding}\\
-duper, rouler, tromper & to trick\\
-\cellcolor{gray!6}{durable} & \cellcolor{gray!6}{sustainable}\\
+\cellcolor{gray!6}{fabriquer qqch} & \cellcolor{gray!6}{to manufacture stg}\\
+faire du télétravail & to work from home\\
+\cellcolor{gray!6}{glaçage} & \cellcolor{gray!6}{glazing}\\
+hauteur & height\\
+\cellcolor{gray!6}{l'amidon} & \cellcolor{gray!6}{starch (U)}\\
 \addlinespace
-économiser & to save money\\
-\cellcolor{gray!6}{écraser} & \cellcolor{gray!6}{to squash}\\
-en faisant qqch & through doing stg\\
-\cellcolor{gray!6}{engagement} & \cellcolor{gray!6}{commitment}\\
-engager, embaucher & to hire\\
-\addlinespace
-\cellcolor{gray!6}{en grosses quantités (achat)} & \cellcolor{gray!6}{in bulk}\\
-épais & thick\\
-\cellcolor{gray!6}{épineux, délicat} & \cellcolor{gray!6}{tricky}\\
-équipement, installation & facility\\
-\cellcolor{gray!6}{étape} & \cellcolor{gray!6}{a stage}\\
-\addlinespace
-être conscient de & to be aware of\\
-\cellcolor{gray!6}{éviter} & \cellcolor{gray!6}{avoid}\\
-éviter & to avoid\\
-\cellcolor{gray!6}{expédier qqch} & \cellcolor{gray!6}{to ship out stg}\\
-expédier & to ship out\\
-\addlinespace
-\cellcolor{gray!6}{finir par...} & \cellcolor{gray!6}{to end up doing...}\\
-fonctionner & to work\\
-\cellcolor{gray!6}{fournir, procurer} & \cellcolor{gray!6}{to provide}\\
-fournir & to provide\\
-\cellcolor{gray!6}{frais d'adhésion} & \cellcolor{gray!6}{membership fees}\\
-\addlinespace
-frais d'élimination des déchets & disposal costs\\
-\cellcolor{gray!6}{gestion des déchets} & \cellcolor{gray!6}{waste management}\\
-gestion, direction & stewardship\\
-\cellcolor{gray!6}{glisser} & \cellcolor{gray!6}{to glide}\\
-gravé au laser & laser-etched\\
-\addlinespace
-\cellcolor{gray!6}{hello} & \cellcolor{gray!6}{bonjour}\\
-humecter, humidifier & to dampen\\
-\cellcolor{gray!6}{imprimer} & \cellcolor{gray!6}{to print}\\
-indépendamment de & regardless of\\
-\cellcolor{gray!6}{item fonctionner} & \cellcolor{gray!6}{to work}\\
-\addlinespace
-jeter des déchets sur la voie publique & to litter\\
-\cellcolor{gray!6}{jeter, se débarrasser de} & \cellcolor{gray!6}{to dispose of}\\
-jeter & to dispose of\\
-\cellcolor{gray!6}{la façon, la manière} & \cellcolor{gray!6}{the way}\\
-la maquette, la disposition & the layout\\
-\addlinespace
-\cellcolor{gray!6}{le dos (d'un livre)} & \cellcolor{gray!6}{the spine}\\
+la couverture & the cover\\
+\cellcolor{gray!6}{la graisse (typographie)} & \cellcolor{gray!6}{the weight}\\
+la rogne & cut-offs\\
+\cellcolor{gray!6}{largeur} & \cellcolor{gray!6}{width}\\
 le dos d'un livre & the spine\\
-\cellcolor{gray!6}{le gagne-pain, la source de revenus} & \cellcolor{gray!6}{the livelihood}\\
-le grammage & paper weight\\
-\cellcolor{gray!6}{le lieu de travail} & \cellcolor{gray!6}{the workplace}\\
 \addlinespace
-le recto & the front\\
-\cellcolor{gray!6}{le respect de la loi} & \cellcolor{gray!6}{compliance}\\
-le verso & the back\\
-\cellcolor{gray!6}{lisse, doux} & \cellcolor{gray!6}{smooth}\\
-livrer & to deliver\\
+\cellcolor{gray!6}{longueur} & \cellcolor{gray!6}{length}\\
+lycée & high-school\\
+\cellcolor{gray!6}{mat} & \cellcolor{gray!6}{matte}\\
+mélanger (b...) & to blend\\
+\cellcolor{gray!6}{mélanger (m...)} & \cellcolor{gray!6}{to mix}\\
 \addlinespace
-\cellcolor{gray!6}{manipuler} & \cellcolor{gray!6}{to handle}\\
-mat & matte\\
-\cellcolor{gray!6}{mélanger} & \cellcolor{gray!6}{to mix}\\
-mettre en place & to implement\\
-\cellcolor{gray!6}{mettre en valeur, souligner} & \cellcolor{gray!6}{to highlight}\\
+obsolète & outdated\\
+\cellcolor{gray!6}{ondulé (carton)} & \cellcolor{gray!6}{corrugated}\\
+ondulé & wavy\\
+\cellcolor{gray!6}{paresseux} & \cellcolor{gray!6}{lazy}\\
+pelliculage & lamination\\
 \addlinespace
-mieux convenir à & to be best suited for\\
-\cellcolor{gray!6}{mince, fin} & \cellcolor{gray!6}{thin}\\
-moyen, la moyenne & average\\
-\cellcolor{gray!6}{once} & \cellcolor{gray!6}{une fois que}\\
-pailleté, miroitant & shimmery\\
+\cellcolor{gray!6}{permettre à qn de faire qqch} & \cellcolor{gray!6}{to enable sb to do stg}\\
+permettre à quelqu'un de faire qqch & to allow sb to do stg\\
+\cellcolor{gray!6}{piqûre à cheval} & \cellcolor{gray!6}{saddle-stitching}\\
+profondeur & depth\\
+\cellcolor{gray!6}{précédent} & \cellcolor{gray!6}{previous}\\
 \addlinespace
-\cellcolor{gray!6}{par exemple} & \cellcolor{gray!6}{for instance}\\
-permettre à qn de faire & to allow sb to\\
-\cellcolor{gray!6}{peser} & \cellcolor{gray!6}{to weigh}\\
-peu précis, grossier & rough\\
-\cellcolor{gray!6}{piqûre à cheval} & \cellcolor{gray!6}{saddle-stitched}\\
-\addlinespace
-piqûre à cheval & saddle-stitching\\
-\cellcolor{gray!6}{planification anticipée} & \cellcolor{gray!6}{forward planning}\\
-planifier & to schedule\\
-\cellcolor{gray!6}{plier} & \cellcolor{gray!6}{to fold}\\
-précis, aiguisé & sharp\\
-\addlinespace
-\cellcolor{gray!6}{profiter à, bénéficier à} & \cellcolor{gray!6}{to benefit}\\
-récolter, moissonner & to harvest\\
-\cellcolor{gray!6}{récolter} & \cellcolor{gray!6}{to harvest}\\
-recto-verso & both sides\\
-\cellcolor{gray!6}{récupérer, recouvrer} & \cellcolor{gray!6}{to recover}\\
-\addlinespace
-relier (un livre) & to bind (bound, bound)\\
-\cellcolor{gray!6}{reliure à spirale} & \cellcolor{gray!6}{coil binding}\\
-reliure spirales & coil binding\\
-\cellcolor{gray!6}{remplir des conditions requises} & \cellcolor{gray!6}{to meet requirements}\\
-rendre, donner & to hand out\\
-\addlinespace
-\cellcolor{gray!6}{représenter} & \cellcolor{gray!6}{to depict}\\
-respecter une norme & to meet a standard\\
-\cellcolor{gray!6}{résulter dans, aboutir à} & \cellcolor{gray!6}{to result in}\\
-réunir & to gather\\
+relier un livre & to bind a book\\
+\cellcolor{gray!6}{reliure spirales} & \cellcolor{gray!6}{coil binding}\\
+remarquer & to notice\\
 \cellcolor{gray!6}{rugueux} & \cellcolor{gray!6}{rough}\\
+réparer & to fix\\
 \addlinespace
-sans & without\\
-\cellcolor{gray!6}{s'assurer de qqch, garantir} & \cellcolor{gray!6}{to ensure}\\
-s'assurer, garantir & to ensure\\
+\cellcolor{gray!6}{résumer} & \cellcolor{gray!6}{to summarize}\\
+s'intéresser à qqch & to be interested in stg\\
+\cellcolor{gray!6}{se débarrasser de qqch} & \cellcolor{gray!6}{to get rid of stg}\\
+suivant & next\\
 \cellcolor{gray!6}{sécher} & \cellcolor{gray!6}{to dry}\\
-se chevaucher & to overlap\\
 \addlinespace
-\cellcolor{gray!6}{stockage} & \cellcolor{gray!6}{storage}\\
-surveiller & to monitor\\
-\cellcolor{gray!6}{taille} & \cellcolor{gray!6}{size}\\
-tandis que & while\\
-\cellcolor{gray!6}{tomber, chuter} & \cellcolor{gray!6}{to fall (fell, fallen)}\\
+tard/en retard & late\\
+\cellcolor{gray!6}{traiter de} & \cellcolor{gray!6}{to deal with (dealt x 2)}\\
+traiter une commande & to run an order\\
+\cellcolor{gray!6}{travailleur} & \cellcolor{gray!6}{hard-working}\\
+télécharger & to download\\
 \addlinespace
-tôt & early\\
-\cellcolor{gray!6}{traçabilité} & \cellcolor{gray!6}{chain of custody}\\
-trade & commerce\\
-\cellcolor{gray!6}{très long} & \cellcolor{gray!6}{lengthy}\\
-un achat & a purchase\\
+\cellcolor{gray!6}{téléverser} & \cellcolor{gray!6}{to upload}\\
+un appareil électronique & a device\\
+\cellcolor{gray!6}{un autocollant} & \cellcolor{gray!6}{a sticker}\\
+un blanchet & un blanket\\
+\cellcolor{gray!6}{un bobine} & \cellcolor{gray!6}{a reel}\\
 \addlinespace
-\cellcolor{gray!6}{un appareil électrique} & \cellcolor{gray!6}{an electric appliance}\\
-un bâtonnet & a rod\\
-\cellcolor{gray!6}{un cône} & \cellcolor{gray!6}{a cone}\\
-un consommateur & a consumer\\
-\cellcolor{gray!6}{un coût initial} & \cellcolor{gray!6}{an upfront cost}\\
+un bâtonnet (yeux) & a rod\\
+\cellcolor{gray!6}{un calage} & \cellcolor{gray!6}{a make-ready}\\
+un client & a customer\\
+\cellcolor{gray!6}{un devis} & \cellcolor{gray!6}{a quote}\\
+un dépliant & a folded leaflet\\
 \addlinespace
-un détaillant & a retailer\\
-\cellcolor{gray!6}{un document d'information} & \cellcolor{gray!6}{a fact sheet}\\
-une agence de communication & an ad(vertising) agency\\
-\cellcolor{gray!6}{une amélioration} & \cellcolor{gray!6}{an improvement}\\
-une approbation, un accord & an approval\\
+\cellcolor{gray!6}{un entrepôt} & \cellcolor{gray!6}{a warehouse}\\
+un logiciel & a software\\
+\cellcolor{gray!6}{un manchon} & \cellcolor{gray!6}{a shrinkable sleeve}\\
+un massicot & a trimmer\\
+\cellcolor{gray!6}{un métier, commerce} & \cellcolor{gray!6}{a trade}\\
 \addlinespace
-\cellcolor{gray!6}{une cellule} & \cellcolor{gray!6}{a cell}\\
-une cible & a target\\
-\cellcolor{gray!6}{une configuration} & \cellcolor{gray!6}{a setup}\\
-une couche & a \vphantom{1} layer\\
-\cellcolor{gray!6}{une couche} & \cellcolor{gray!6}{a layer}\\
-\addlinespace
-une couverture, un blanchet & a blanket\\
-\cellcolor{gray!6}{une décharge} & \cellcolor{gray!6}{a landfill}\\
-une échéance & a deadline\\
-\cellcolor{gray!6}{une encoche} & \cellcolor{gray!6}{a notch}\\
-une enveloppe & a wrap\\
-\addlinespace
-\cellcolor{gray!6}{une étape, un pas} & \cellcolor{gray!6}{a step}\\
-une facture & an invoice\\
-\cellcolor{gray!6}{une fente} & \cellcolor{gray!6}{a slit}\\
-une finition brillante & a glossy finish\\
-\cellcolor{gray!6}{une finition mate} & \cellcolor{gray!6}{a matte finish}\\
-\addlinespace
-une fois que & once\\
-\cellcolor{gray!6}{une marque} & \cellcolor{gray!6}{a brand}\\
-une matière première & a raw material\\
-\cellcolor{gray!6}{une norme} & \cellcolor{gray!6}{a standard}\\
-une nuance de couleur & a hue\\
-\addlinespace
-\cellcolor{gray!6}{une onde} & \cellcolor{gray!6}{a wave}\\
-une plaque & a plate\\
-\cellcolor{gray!6}{une publicité, une annonce} & \cellcolor{gray!6}{an ad}\\
-une recommandation, une consigne & a guideline\\
-\cellcolor{gray!6}{une réunion} & \cellcolor{gray!6}{a meeting}\\
-\addlinespace
-une séance photo & a photo shoot\\
-\cellcolor{gray!6}{une sensibilisation} & \cellcolor{gray!6}{awareness}\\
-une sous-couche & an under-coat\\
-\cellcolor{gray!6}{une surface, une tache} & \cellcolor{gray!6}{a spot}\\
-une usine & a factory\\
-\addlinespace
-\cellcolor{gray!6}{un exemplaire} & \cellcolor{gray!6}{a copy}\\
-un fabricant & a manufacturer\\
-\cellcolor{gray!6}{un fichier numérique} & \cellcolor{gray!6}{a digital file}\\
-un fournisseur & a supplier\\
-\cellcolor{gray!6}{un massicot} & \cellcolor{gray!6}{a trimmer}\\
-\addlinespace
-un matériau (aussi : tissu) & a material\\
+un niveau & a level\\
 \cellcolor{gray!6}{un nuancier} & \cellcolor{gray!6}{a fan deck}\\
-un pli & a fold\\
-\cellcolor{gray!6}{un revenu} & \cellcolor{gray!6}{an income}\\
-un rouleau & a roller\\
+un plateau & a tray\\
+\cellcolor{gray!6}{un pli roulé (UK)} & \cellcolor{gray!6}{a roll fold}\\
+un pli roulé (US) & a tri/letter fold\\
 \addlinespace
-\cellcolor{gray!6}{un sondage} & \cellcolor{gray!6}{a poll}\\
+\cellcolor{gray!6}{un pli-fenêtre} & \cellcolor{gray!6}{a gate-fold}\\
+un pli & a fold\\
+\cellcolor{gray!6}{un rabat} & \cellcolor{gray!6}{a flap}\\
+un revêtement & a coating\\
+\cellcolor{gray!6}{un rouleau} & \cellcolor{gray!6}{a roller}\\
+\addlinespace
 un stage & an internship\\
-\cellcolor{gray!6}{un syndicat} & \cellcolor{gray!6}{a union}\\
-vérifier & to check\\
-\cellcolor{gray!6}{vif, éclatant} & \cellcolor{gray!6}{bright}\\
+\cellcolor{gray!6}{un trait} & \cellcolor{gray!6}{a stroke}\\
+un volume & a form\\
+\cellcolor{gray!6}{un écran (d...)} & \cellcolor{gray!6}{a display}\\
+un écran (m...) & a monitor\\
+\addlinespace
+\cellcolor{gray!6}{un équilibre} & \cellcolor{gray!6}{a balance}\\
+une caractéristique, une spécification & a feature\\
+\cellcolor{gray!6}{une cellule} & \cellcolor{gray!6}{a cell}\\
+une couche & a layer\\
+\cellcolor{gray!6}{une encoche} & \cellcolor{gray!6}{a notch}\\
+\addlinespace
+une entreprise & a company\\
+\cellcolor{gray!6}{une fente} & \cellcolor{gray!6}{a slit}\\
+une forme & a shape\\
+\cellcolor{gray!6}{une lame} & \cellcolor{gray!6}{a blade}\\
+une livraison & a delivery\\
+\addlinespace
+\cellcolor{gray!6}{une machine empileuse} & \cellcolor{gray!6}{a stacker}\\
+une nuance de couleur & a hue\\
+\cellcolor{gray!6}{une page} & \cellcolor{gray!6}{a sheet}\\
+une plaque & a plate\\
+\cellcolor{gray!6}{une poignée} & \cellcolor{gray!6}{a handle}\\
+\addlinespace
+une police (de caractères) & a font\\
+\cellcolor{gray!6}{une rainure} & \cellcolor{gray!6}{a scoring line}\\
+une récompense, un prix & a prize\\
+\cellcolor{gray!6}{une usine} & \cellcolor{gray!6}{a factory}\\
+une étape & a step\\
+\addlinespace
+\cellcolor{gray!6}{vernis sélectif} & \cellcolor{gray!6}{spot varnish}\\
+vif (couleur) & bright\\
+\cellcolor{gray!6}{écorce} & \cellcolor{gray!6}{bark (U)}\\
+épaisseur & thickness\\
+\cellcolor{gray!6}{être bon dans qqch} & \cellcolor{gray!6}{to be good  at stg}\\
+\addlinespace
+un propriétaire & an owner\\
+\cellcolor{gray!6}{un réseau} & \cellcolor{gray!6}{a network}\\
+difficile & tough\\
+\cellcolor{gray!6}{une falaise} & \cellcolor{gray!6}{a cliff}\\
+une vente & a sale\\
+\addlinespace
+\cellcolor{gray!6}{acheter} & \cellcolor{gray!6}{to purchase}\\
+améliorer, mettre en valeur & to enhance\\
+\cellcolor{gray!6}{une légende (dessin)} & \cellcolor{gray!6}{a caption}\\
+jetable & disposable\\
+\cellcolor{gray!6}{une marque} & \cellcolor{gray!6}{a brand}\\
+\addlinespace
+un outil & a tool\\
+\cellcolor{gray!6}{découvrir} & \cellcolor{gray!6}{to discover}\\
+une formation & a training course\\
+\cellcolor{gray!6}{être responsable de} & \cellcolor{gray!6}{to be in charge of}\\
+un raccourci de clavier & a keyboard shortcut\\
+\addlinespace
+\cellcolor{gray!6}{maîtriser} & \cellcolor{gray!6}{to master}\\
+une compétence & a skill\\
+\cellcolor{gray!6}{réussir à, parvenir à faire qqch} & \cellcolor{gray!6}{to manage to do stg}\\
+une épreuve numérique contractuelle & a digital contract proof\\
+\cellcolor{gray!6}{un motif, un modèle} & \cellcolor{gray!6}{a pattern}\\
+\addlinespace
+commander & to order\\
+\cellcolor{gray!6}{je devais} & \cellcolor{gray!6}{I had to}\\
+un fournisseur & a supplier\\
+\cellcolor{gray!6}{un formulaire} & \cellcolor{gray!6}{a form}\\
+échenillage (courtesy of Bogdan!) & weeding\\
+\addlinespace
+\cellcolor{gray!6}{un métier} & \cellcolor{gray!6}{a trade}\\
+du tissu & fabric\\
+\cellcolor{gray!6}{s'assurer de qqch} & \cellcolor{gray!6}{to ensure}\\
+actuel & current\\
+\cellcolor{gray!6}{vérifier} & \cellcolor{gray!6}{to check}\\
+\addlinespace
+aléatoire & random\\
+\cellcolor{gray!6}{parfait, sans failles} & \cellcolor{gray!6}{faultless}\\
+un échantillon & a sample\\
+\cellcolor{gray!6}{PAO} & \cellcolor{gray!6}{desktop publishing}\\
+empêcher & to prevent\\
+\addlinespace
+\cellcolor{gray!6}{une échéance} & \cellcolor{gray!6}{a deadline}\\
+un diplôme & a degree\\
+\cellcolor{gray!6}{mettre à jour} & \cellcolor{gray!6}{to update}\\
+un domaine & a field\\
+\cellcolor{gray!6}{en cours, en déroulement} & \cellcolor{gray!6}{ongoing}\\
+\addlinespace
+une commande & an order\\
 \bottomrule
 \end{longtable}
 
@@ -256,58 +222,33 @@ vérifier & to check\\
 \toprule
 Expression & Definition\\
 \midrule
-\cellcolor{gray!6}{a burr} & \cellcolor{gray!6}{a thin ridge or area of roughness produced in cutting or shaping metal}\\
-Accordion Fold & A fold constructed by folding a sheet three times in a zig-zag pattern, creating a piece that expands like an accordion.\\
-\cellcolor{gray!6}{Analogous colours} & \cellcolor{gray!6}{colours adjacent to one another on the colour wheel (e.g. violet, red and orange).}\\
-a stencil & an impervious material perforated with lettering\\
-\cellcolor{gray!6}{Brightness} & \cellcolor{gray!6}{how light reflects off  the paper. Some papers contain fluorescents so they appear brighter. This makes the paper sparkle more, but can affect the color of printed images.}\\
+\cellcolor{gray!6}{dot gain} & \cellcolor{gray!6}{also called tonal value increase. A phenomenon in offset lithography and some other forms of printing which causes printed material to look darker than intended.}\\
+print registration & In color printing the layering of printed patterns to form a multicolor pattern\\
+\cellcolor{gray!6}{a pattern} & \cellcolor{gray!6}{a form or model proposed for imitation}\\
+a course & a number of lessons dealing with a subject\\
+\cellcolor{gray!6}{accurate} & \cellcolor{gray!6}{with no error, especially as the result of care}\\
 \addlinespace
-Complementary colours & opposites on the colour wheel. This relationship will produce visual tension and “shock.”\\
-\cellcolor{gray!6}{Double Gate Fold} & \cellcolor{gray!6}{A fold constructed by folding a sheet inwards on each side, creating two side panels that open like doors, and then folding the sheet in half.}\\
-Double Parallel Fold & A fold, also known as a parallel center, constructed by folding a sheet in half, and then in half once again.\\
-\cellcolor{gray!6}{Fastback binding} & \cellcolor{gray!6}{uses a cloth or paper strip wrapped around the spine of the pages and then glued in position.}\\
-favoured & prefered\\
+achievable & that can be completed successfully\\
+\cellcolor{gray!6}{webquest} & \cellcolor{gray!6}{https://www.print24sa.co.za/}\\
+The gathering and arranging of individual sheets or other printed components into a predetermined sequence. Collating creates consistent, logical sets from multiple parts. & Collating\\
+\cellcolor{gray!6}{Using a sharp blade or shear to reduce a printed piece down to its desired size. Common examples include removing excess paper along crop marks, separating pieces that have been printed as multiple images per sheet, or trimming the open edges of a book to create evenly aligned pages.} & \cellcolor{gray!6}{Cutting and Trimming}\\
+The process of making a crease in paper so it will fold easier. Helps improve the appearance of the fold because it provides a consistent guideline. Used mostly on heavyweight papers and cardstock. & Scoring\\
 \addlinespace
-\cellcolor{gray!6}{Flat (No Folding)} & \cellcolor{gray!6}{No folding or scoring}\\
-Gate Fold & A fold constructed by folding a sheet inwards on each side, creating two side panels that open like doors or gates.\\
-\cellcolor{gray!6}{Gradient} & \cellcolor{gray!6}{a gradual change from one colour to another. (For example, blue transitioning gradually to green).}\\
-grease & a thick lubricant\\
-\cellcolor{gray!6}{Half-Fold} & \cellcolor{gray!6}{A fold, also known as a book fold, constructed by folding a sheet once, creating two equal halves.}\\
+\cellcolor{gray!6}{A procedure that bends over a printed piece so that it lies flat upon itself.} & \cellcolor{gray!6}{Folding}\\
+the process of bonding a clear plastic film onto printed matter to protect it against stains, smudges, moisture, wrinkles, and tears. Greatly improves durability. Also enhances the vibrancy of the ink colors. A popular choice for printed items that must endure heavy use, such as educational materials, flip charts, book covers, restaurant and bar menus, maps, and consumer displays. & Laminating\\
+\cellcolor{gray!6}{Using a thin sharp blade, that has been pre-formed into a specific pattern or outline, to cut paper, cardstock, labelstock, or other substrates into various shapes.} & \cellcolor{gray!6}{Die-Cutting}\\
+Aprocedure that creates a series of very fine holes in paper or cardstock, usually along a straight line, to allow a portion of the printed piece to be easily detached by hand. Used for a variety of purposes, such as coupons, ID cards, response cards, and remittance slips. & Perforating\\
+\cellcolor{gray!6}{Involves the printing of ascending or descending identification numbers so that each printed unit receives its own unique number. This unique number can appear in one position, or in multiple positions, on each document. In addition to providing a method for easy reference, sequential numbers provide a high degree of accounting control. Frequently used on contracts, invoices, purchase orders, quote forms, checks, raffle tickets, contest entries, or virtually any printed item that needs unique identification.} & \cellcolor{gray!6}{Sequential Numbering}\\
 \addlinespace
-kerning & adds or subtracts space between letters to create more visually appealing and readable text.\\
-\cellcolor{gray!6}{kerning} & \cellcolor{gray!6}{the adjustment of space between pairs of letters in the same word.}\\
-Lay-flat binding & gathers all the signatures together and grinds the spine as in perfect binding. Th e cover is then glued to the book at each side of the spine, which allows the pages of the book to lay flat when opened.\\
-\cellcolor{gray!6}{leading} & \cellcolor{gray!6}{also known as line-height, the space between two lines of text.}\\
-Opacity & refers to how much the text or images printed on the other side of the page show through.\\
+A tough clear-coat applied over printed materials to improve resilience and appearance. This coating is applied in liquid form, then exposed to Ultra-Violet light which bonds and dries it instantly. & UV-Coating\\
+\cellcolor{gray!6}{An economical water-based clear-coat applied to printed pieces to help protect the ink and paper against minor scuffs and abrasions.} & \cellcolor{gray!6}{Aqueous Coating}\\
+Refers to the process of creating round holes in paper using a rotating bit, such as the hole patterns needed for sheets and dividers placed into ringed binders. & Drilling\\
+\cellcolor{gray!6}{Refers to the method of pressing an image into paper or cardstock to create a three dimensional design. Embossing results in a raised surface, while debossing results in a depressed surface.} & \cellcolor{gray!6}{Embossing / Debossing}\\
+A specialized process that uses heat and pressure to apply a metallic foil design to a printed piece. The foil is usually a gold, silver, or copper tone, though a variety of colors are available. & Foil Stamping\\
 \addlinespace
-\cellcolor{gray!6}{Opacity} & \cellcolor{gray!6}{synonymous with non-transparency. The more transparent an image, the lower its opacity.}\\
-Paper coating & How smooth the surface of the paper feels. The degree of smoothness is created during the paper-making process.\\
-\cellcolor{gray!6}{Paper color} & \cellcolor{gray!6}{Most paper is white. However, there are hundreds of different shades of white. Some whites are very warm, almost yellow. Others are cool, almost blue or gray.}\\
-Paper weight & Paper is graded according to its weight — which is usually expressed in terms of how much 500 sheets of the paper in its standard size weighs.\\
-\cellcolor{gray!6}{Perfect binding} & \cellcolor{gray!6}{gathers all the signatures together. The spine is then ground to create a fl at edge, and a paper cover is glued around the spine.}\\
-\addlinespace
-Plastic comb binding & uses a plastic insert with teeth that fit into rectangular holes in the paper.\\
-\cellcolor{gray!6}{Right-Angle Half Fold} & \cellcolor{gray!6}{A fold, also known as a French fold, constructed by folding a sheet in half horizontally, and then in half once again vertically.}\\
-Saddle-stitch binding & uses two or more staples inserted right at the fold of the paper.\\
-\cellcolor{gray!6}{Side-stitch binding} & \cellcolor{gray!6}{combines all the signatures and the cover and stitches them together with staples on the outside of the book cover.}\\
-Spiral binding & uses a metal or plastic spiral that coils through many small holes on the side of the paper.\\
-\addlinespace
-\cellcolor{gray!6}{Strength} & \cellcolor{gray!6}{how well the paper holds up under stress. Paper bags and envelopes need a high degree of strength.}\\
-Thickness & Thick papers don’t have to weigh a lot. Some books are printed on very thick but lightweight paper, which makes the book look like it has more pages.\\
-\cellcolor{gray!6}{Three-ring binding} & \cellcolor{gray!6}{uses three punched holes in the paper and a three-ring binder.}\\
-to coat stg & to cover or spread with a finishing, protecting, or enclosing layer\\
-\cellcolor{gray!6}{to dampen stg} & \cellcolor{gray!6}{to make stg moderately wet}\\
-\addlinespace
-to repel stg & to repulse or resist stg\\
-\cellcolor{gray!6}{to rub} & \cellcolor{gray!6}{to move along the surface of a body with pressure}\\
-tracking & affects every character in the selected text and is used to change its overall appearance.\\
-\cellcolor{gray!6}{tracking} & \cellcolor{gray!6}{the adjustment of space for groups of letters and entire blocks of text.}\\
-Triadic colours & three colours evenly spaced on the colour wheel. One colours dominates, the second supports, and the third accents.\\
-\addlinespace
-\cellcolor{gray!6}{Tri-Fold / Letter-Fold} & \cellcolor{gray!6}{A fold, also known as a letter-fold, constructed by folding a sheet twice like a mailed letter.}\\
-Velo binding & uses two plastic strips on either side of the document. The strips are held together with plastic pins and bound together with heat.\\
-\cellcolor{gray!6}{Wir-O binding} & \cellcolor{gray!6}{similar to spiral binding, but instead of a single spiral, two wire teeth fit into rectangular holes in the paper.}\\
-Z-Fold & A fold, also known as a fan fold or zig-zag fold, constructed by folding a sheet twice in the shape of the letter Z.\\
+\cellcolor{gray!6}{Applying a flexible adhesive along one edge of a stack of same-sized sheets. The adhesive secures the sheets as a unit, but allows the topmost sheet to be easily removed as needed. In most cases, padded sheets incorporate a chipboard backer for rigidity. Common examples include notepads, memo pads, and order pads.} & \cellcolor{gray!6}{Padding}\\
+A packaging method that encloses bundles of printed matter within a transparent plastic film. The application of heat makes the film shrink around the printing to secure it tightly. In addition to providing a layer of protection, shrinkwrapping is a cost-effective way to create convenient-sized packs, allowing for easier handling and distribution of the printed pieces. & Shrinkwrapping\\
+\cellcolor{gray!6}{Binding is a broad term used to describe the gathering and fastening together of separate sheets or signatures. Binding can be as simple as placing a single staple through the corner of a set of documents. However, binding usually refers to the creation of durable books and booklets. Examples of popular binding methods include perfect binding, saddle-stitching, spiral/coil binding, and wire-o binding, as well as the insertion of components into a ringed binder.} & \cellcolor{gray!6}{Binding}\\
 \bottomrule
 \end{longtable}
 
@@ -320,59 +261,27 @@ Z-Fold & A fold, also known as a fan fold or zig-zag fold, constructed by foldin
 \toprule
 Français & English\\
 \midrule
-\cellcolor{gray!6}{As-tu appelé le client hier?} & \cellcolor{gray!6}{Did you call the customer yesterday?}\\
-As-tu déjà fait un stage ? & Have you ever done an internship?\\
-\cellcolor{gray!6}{As-tu envoyé le fichier numérique aux clients hier?} & \cellcolor{gray!6}{Did you send the digital file to the customers yesterday?}\\
-As-tu expédié les livres piqués à cheval la semaine dernière? & Did you ship out the saddle-stitched books last week?\\
-\cellcolor{gray!6}{As-tu parlé aux clients ?} & \cellcolor{gray!6}{Did you speak to the customers?}\\
+\cellcolor{gray!6}{J'ai appris à parler aux clients} & \cellcolor{gray!6}{I learned how to speak to customers}\\
+L'entreprise était située à Paris. & The company was located in Paris.\\
+\cellcolor{gray!6}{Nous imprimions des cartes de visites et des brochures} & \cellcolor{gray!6}{We printed business cards and booklets}\\
+Je devais venir à 8 heures du matin. & I had to come at 8.\\
+\cellcolor{gray!6}{J'ai assisté à des réunions très intéressantes.} & \cellcolor{gray!6}{I attended very interesting meetings.}\\
 \addlinespace
-As-tu pris le nuancier? & Did you take the fan deck?\\
-\cellcolor{gray!6}{Avez-vous déjà fait un stage dans une entreprise ?} & \cellcolor{gray!6}{Have you already done an internship in a company?}\\
-Avez-vous travaillé pendant les vacances d'été ? & Did you work during the summer holidays?\\
-\cellcolor{gray!6}{Ces cartes de visite doivent être imprimées avant la fin de la semaine} & \cellcolor{gray!6}{These business cards must be printed before the end of the week.}\\
-Ces couleurs vives doivent être imprimées uniquement en couverture & These bright colours must be printed on the cover only.\\
+J'ai fait un stage pendant 2 mois & I did an internship for 2 months\\
+\cellcolor{gray!6}{Je devais retoucher des photos} & \cellcolor{gray!6}{I had to edit photos}\\
+Mon entreprise imprimait des dépliants et des cartes de visite & My company printed booklets and business cards\\
+\cellcolor{gray!6}{J'ai appris de nouvelles compétences} & \cellcolor{gray!6}{I learned new skills}\\
+J'aimerais bien travailler à nouveau dans cette entreprise & I would like to work in this company again\\
 \addlinespace
-\cellcolor{gray!6}{Combien d'exemplaires voulez-vous que j'imprime?} & \cellcolor{gray!6}{How many copies do you want me to print?}\\
-J'ai 19 ans & I am 19\\
-\cellcolor{gray!6}{J'ai 19 ans} & \cellcolor{gray!6}{I am 19 (years old).}\\
-J'ai fait un stage de deux mois dans une entreprise l'année dernière & I did an internship for two months in a company last year\\
-\cellcolor{gray!6}{J'aim beaucoup le sport et la lecture} & \cellcolor{gray!6}{I enjoy doing sport and reading}\\
+\cellcolor{gray!6}{Mes collègues m'ont beaucoup aidé} & \cellcolor{gray!6}{My colleagues helped me a lot}\\
+J'ai assisté à deux réunions avec des clients & I attended two meetings with customers\\
+\cellcolor{gray!6}{J'ai fait du télétravail} & \cellcolor{gray!6}{I worked from home}\\
+Ce document parle de nouveaux processus d'impression. & This document deals with new printing processes.\\
+\cellcolor{gray!6}{Pendant mon stage, j'ai appris de nouvelles compétences.} & \cellcolor{gray!6}{During my internship, I learned new skills.}\\
 \addlinespace
-J'aimerais que vous en imprimiez 200 & I would like you to print 200.\\
-\cellcolor{gray!6}{J'ai oublié, je le ferai demain.} & \cellcolor{gray!6}{I forgot, I will do it tomorrow.}\\
-J'ai parlé à beaucoup de clients. & I spoke to a lot of customers.\\
-\cellcolor{gray!6}{J'ai passé mon enfance à Paris} & \cellcolor{gray!6}{I spent my childhood in Paris}\\
-J'ai travaillé dans une entreprise en banlieue. & I worked in a company in the suburbs.\\
-\addlinespace
-\cellcolor{gray!6}{Je l'ai choisie parce que...} & \cellcolor{gray!6}{I chose it because ...}\\
-Je l'envoie maintenant & I am sending it now.\\
-\cellcolor{gray!6}{J'étais au lycée} & \cellcolor{gray!6}{I was in high school}\\
-Je te conseille de rappeler le client & I advise you to call the customer back.\\
-\cellcolor{gray!6}{Je voudrais commander 2500 dépliants} & \cellcolor{gray!6}{I would like to order 2500 folded leaflets.}\\
-\addlinespace
-Je voudrais faire un stage dans une entreprise près de chez moi & I would like to do an internship in a company close to home.\\
-\cellcolor{gray!6}{J'habite à ...} & \cellcolor{gray!6}{I live in ...}\\
-La semaine dernière, 4 étudiants sur 19 ont répondu non. & Last week, 4 students out of 19 answered no.\\
-\cellcolor{gray!6}{Le client veut que j'ajoute une illustration.} & \cellcolor{gray!6}{The client wants me to add an illustration.}\\
-Le fabricant de cette encre attend des clients qu'ils la recyclent. & The manufacturer of this ink expects customers to recycle it.\\
-\addlinespace
-\cellcolor{gray!6}{Le manager veut que nous travaillions dans l'entreprise} & \cellcolor{gray!6}{The manager wants us to work in the company}\\
-Les bâtonnets nous permettent de voir la nuit (un peu!). & Rods enable us to see at night (a little!)\\
-\cellcolor{gray!6}{Mon patron veut que je suive les étapes} & \cellcolor{gray!6}{My boss wants me to follow the steps.}\\
-Où as-tu travaillé pendant ton stage ? & Where did you work your stage ?\\
-\cellcolor{gray!6}{Où étiez-vous l'année dernière ?} & \cellcolor{gray!6}{Where were you last year?}\\
-\addlinespace
-Où habitez-vous ? & Where do you live?\\
-\cellcolor{gray!6}{Pendant mon stage, mes collègues ne voulaient pas que j'utilise le massicot.} & \cellcolor{gray!6}{During my internship, my colleagues didn't want me to use the trimmer.}\\
-Pourquoi avez-vous choisi l'École Estienne ? & Why did you choose l'École Estienne ?\\
-\cellcolor{gray!6}{Pourrais-tu regarder mon écran, je crois qu'il est cassé.} & \cellcolor{gray!6}{Could you have a look at my screen, I believe it is broken.}\\
-Quand pouvez-vous les expédier? & When can you ship them out?\\
-\addlinespace
-\cellcolor{gray!6}{Quel âge avez-vous ?} & \cellcolor{gray!6}{How old are you?}\\
-Quel âge-avez-vous? & How old are you?\\
-\cellcolor{gray!6}{Quelles sont vos défauts et qualités ?} & \cellcolor{gray!6}{What are your drawbacks and qualities?}\\
-Quels sont vos passe-temps favoris ? & What are your favourite hobbies?\\
-\cellcolor{gray!6}{Qu'ont répondu les étudiants la semaine dernière?} & \cellcolor{gray!6}{What did the students answer last week?}\\
+Mon entreprise était située à Paris. & My company was located in Paris.\\
+\cellcolor{gray!6}{Je devais venir à 8 heures du matin.} & \cellcolor{gray!6}{I had to come at 8 in the morning.}\\
+J'ai choisi ce document parce que les nouvelles technologies m'intéressent beaucoup. & I chose this document because I'm highly interested in new technologies.\\
 \bottomrule
 \end{longtable}
 
@@ -385,146 +294,41 @@ Quels sont vos passe-temps favoris ? & What are your favourite hobbies?\\
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{about} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."baUt}/}\\
-accurate & /100/ & /\textipa{"\ae k.j@r.@t}/\\
-\cellcolor{gray!6}{achieve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."tSi:v}/}\\
-agency & /100/ & /\textipa{"eIdZ.@ns.i}/\\
-\cellcolor{gray!6}{alignment} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."laIn.m@nt}/}\\
-\addlinespace
-allow & /01/ & /\textipa{@."laU}/\\
-\cellcolor{gray!6}{amount} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."maUnt}/}\\
-analogous & /0100/ & /\textipa{@."n\ae l.@g.@s}/\\
-\cellcolor{gray!6}{angle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae N.g@l}/}\\
-appliance & /010/ & /\textipa{@."plaI.@ns}/\\
-\addlinespace
-\cellcolor{gray!6}{approval} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."pru:v.@l}/}\\
-area & /100/ & /\textipa{"e@r.i.@}/\\
-\cellcolor{gray!6}{asymmetrical} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{asymmetrical}\\
-awhale & // & awhale\\
-\cellcolor{gray!6}{benefit} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"ben.I.fIt}/}\\
-\addlinespace
-bind & /1/ & /\textipa{baInd}/\\
-\cellcolor{gray!6}{biology} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{baI."6l.@dZ.i}/}\\
-booklet & /10/ & /\textipa{"bUk.l@t}/\\
-\cellcolor{gray!6}{box} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{b6ks}/}\\
-bright & /1/ & /\textipa{braIt}/\\
-\addlinespace
-\cellcolor{gray!6}{brochure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"br@US.@}/}\\
-carton & /10/ & /\textipa{"kA:t.@n}/\\
-\cellcolor{gray!6}{certain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s3:t.@n}/}\\
-chemical & /100/ & /\textipa{"kem.Ik.@l}/\\
-\cellcolor{gray!6}{citrus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sItr.@s}/}\\
-\addlinespace
-climate & /10/ & /\textipa{"klaIm.@t}/\\
-\cellcolor{gray!6}{commitment} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@."mIt.m@nt}/}\\
+\cellcolor{gray!6}{customer} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k2st.@m.@}/}\\
 company & /100/ & /\textipa{"k2mp.@n.i}/\\
-\cellcolor{gray!6}{compliance} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@m."plaI.@ns}/}\\
-consumer & /010/ & /\textipa{k@n."sju:m.@}/\\
+\cellcolor{gray!6}{internship} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"In.t3:n.SIp}/}\\
+document & /100/ & /\textipa{"d6k.ju.m@nt}/\\
+\cellcolor{gray!6}{paragraph} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p\ae r.@.grA:f}/}\\
 \addlinespace
-\cellcolor{gray!6}{custody} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k2st.@d.i}/}\\
-deadline & /10/ & /\textipa{"ded.laIn}/\\
-\cellcolor{gray!6}{detection} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."tek.S@n}/}\\
-dispenser & // & dispenser\\
-\cellcolor{gray!6}{display} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."spleI}/}\\
+website & /10/ & /\textipa{"web.saIt}/\\
+\cellcolor{gray!6}{manager} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"m\ae n.IdZ.@}/}\\
+colleague & /10/ & /\textipa{"k6l.i:g}/\\
+\cellcolor{gray!6}{software} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6ft.we@}/}\\
+process & /10/ & /\textipa{"pr@Us.es}/\\
 \addlinespace
-disposal & /010/ & /\textipa{di."sp@Uz.@l}/\\
-\cellcolor{gray!6}{early} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"3:l.i}/}\\
-ensure & /01/ & /\textipa{In."SO:}/\\
-\cellcolor{gray!6}{equal} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"i:k.w@l}/}\\
-equipment & /010/ & /\textipa{I."kwIp.m@nt}/\\
+\cellcolor{gray!6}{develop} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."vel.@p}/}\\
+pandemic & /010/ & /\textipa{p\ae n."dem.Ik}/\\
+\cellcolor{gray!6}{meeting} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mi:t.IN}/}\\
+weight & /1/ & /\textipa{weIt}/\\
+\cellcolor{gray!6}{manage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae n.IdZ}/}\\
 \addlinespace
-\cellcolor{gray!6}{expiry} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{Ik."spaI.@r.i}/}\\
-facility & /0100/ & /\textipa{f@."sIl.@t.i}/\\
-\cellcolor{gray!6}{favorite} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"feIv.r@t}/}\\
-fibrous & /10/ & /\textipa{"faIb.r@s}/\\
-\cellcolor{gray!6}{fit} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{fIt}/}\\
+skill & /1/ & /\textipa{skIl}/\\
+\cellcolor{gray!6}{pattern} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae t.@n}/}\\
+proof & /1/ & /\textipa{pru:f}/\\
+\cellcolor{gray!6}{article} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"A:t.Ik.@l}/}\\
+speak & /1/ & /\textipa{spi:k}/\\
 \addlinespace
-fold & /1/ & /\textipa{f@Uld}/\\
-\cellcolor{gray!6}{forward} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"fO:.w@d}/}\\
-fountain & /10/ & /\textipa{"faUnt.In}/\\
-\cellcolor{gray!6}{furniture} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f3:n.ItS.@}/}\\
-gamut & /10/ & /\textipa{"g\ae m.@t}/\\
-\addlinespace
-\cellcolor{gray!6}{gate} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{geIt}/}\\
-generic & /010/ & /\textipa{dZ@."ner.Ik}/\\
-\cellcolor{gray!6}{gradient} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"greId.i.@nt}/}\\
-granule & /10/ & /\textipa{"gr\ae n.ju:l}/\\
-\cellcolor{gray!6}{gravy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"greIv.i}/}\\
-\addlinespace
-habit & /10/ & /\textipa{"h\ae b.It}/\\
-\cellcolor{gray!6}{hazardous} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"h\ae z.@d.@s}/}\\
-height & /1/ & /\textipa{haIt}/\\
-\cellcolor{gray!6}{hierarchy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"haI@r.A:k.i}/}\\
-hue & /1/ & /\textipa{hju:}/\\
-\addlinespace
-\cellcolor{gray!6}{identify} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{aI."dent.I.faI}/}\\
-image & /10/ & /\textipa{"Im.IdZ}/\\
-\cellcolor{gray!6}{improve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."pru:v}/}\\
-ink & /1/ & /\textipa{INk}/\\
-\cellcolor{gray!6}{interact} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""Int.@r."\ae kt}/}\\
-\addlinespace
-internship & /100/ & /\textipa{"In.t3:n.SIp}/\\
-\cellcolor{gray!6}{lengthy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"leNT.i}/}\\
-liquid & /10/ & /\textipa{"lIk.wId}/\\
-\cellcolor{gray!6}{magazine} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""m\ae g.@."zi:n}/}\\
-manage & /10/ & /\textipa{"m\ae n.IdZ}/\\
-\addlinespace
-\cellcolor{gray!6}{manufacture} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""m\ae n.ju."f\ae k.tS@}/}\\
-market & /10/ & /\textipa{"mA:k.It}/\\
-\cellcolor{gray!6}{material} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{m@."tI@r.i.@l}/}\\
-mechanism & /1020/ & /\textipa{"mek.@.""nIz.@m}/\\
-\cellcolor{gray!6}{nation} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"neIS.@n}/}\\
-\addlinespace
-once & /1/ & /\textipa{w2ns}/\\
+\cellcolor{gray!6}{ensure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."SO:}/}\\
+fabric & /10/ & /\textipa{"f\ae b.rIk}/\\
+\cellcolor{gray!6}{current} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2r.@nt}/}\\
+cylinder & /100/ & /\textipa{"sIl.Ind.@}/\\
 \cellcolor{gray!6}{package} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae k.IdZ}/}\\
-palette & /10/ & /\textipa{"p\ae l.@t}/\\
-\cellcolor{gray!6}{panel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae n.@l}/}\\
-poll & /1/ & /\textipa{p@Ul}/\\
 \addlinespace
-\cellcolor{gray!6}{profile} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr@Uf.aI@l}/}\\
-purchase & /10/ & /\textipa{"p3:tS.@s}/\\
-\cellcolor{gray!6}{raw} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{rO:}/}\\
-receive & /01/ & /\textipa{ri."si:v}/\\
-\cellcolor{gray!6}{reel} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{ri:@l}/}\\
-\addlinespace
-region & /10/ & /\textipa{"ri:dZ.@n}/\\
-\cellcolor{gray!6}{require} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{ri."kwaI.@}/}\\
-retina & /100/ & /\textipa{"ret.In.@}/\\
-\cellcolor{gray!6}{rough} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{r2f}/}\\
-schedule & /10/ & /\textipa{"Sed.ju:l}/\\
-\addlinespace
-\cellcolor{gray!6}{screen} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{skri:n}/}\\
-seal & /1/ & /\textipa{si:@l}/\\
-\cellcolor{gray!6}{sheet} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Si:t}/}\\
-shimmery & // & shimmery\\
-\cellcolor{gray!6}{shower} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"SaU.@}/}\\
-\addlinespace
-signal & /10/ & /\textipa{"sIg.n@l}/\\
-\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
-singer & /10/ & /\textipa{"sIN.@}/\\
-\cellcolor{gray!6}{smooth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{smu:D}/}\\
-species & /10/ & /\textipa{"spi:S.i:z}/\\
-\addlinespace
-\cellcolor{gray!6}{spray} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{spreI}/}\\
-squash & /1/ & /\textipa{skw6S}/\\
-\cellcolor{gray!6}{staff} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{stA:f}/}\\
-standard & /10/ & /\textipa{"st\ae nd.@d}/\\
-\cellcolor{gray!6}{staple} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"steIp.@l}/}\\
-\addlinespace
-stewardship & /100/ & /\textipa{"stju:.@d.SIp}/\\
-\cellcolor{gray!6}{stitch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{stItS}/}\\
-table & /10/ & /\textipa{"teIb.@l}/\\
-\cellcolor{gray!6}{target} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tA:g.It}/}\\
-tissue & /10/ & /\textipa{"tIS.u:}/\\
-\addlinespace
-\cellcolor{gray!6}{tooth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tu:T}/}\\
-trigger & /10/ & /\textipa{"trIg.@}/\\
-\cellcolor{gray!6}{twice} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{twaIs}/}\\
-violet & /100/ & /\textipa{"vaI.@l.@t}/\\
-\cellcolor{gray!6}{visual} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"vIZ.u.@l}/}\\
-\addlinespace
-widow & /10/ & /\textipa{"wId.@U}/\\
-\cellcolor{gray!6}{wrap} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{r\ae p}/}\\
+technician & /010/ & /\textipa{tek."nIS.@n}/\\
+\cellcolor{gray!6}{pressure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"preS.@}/}\\
+detail & /10/ & /\textipa{"di:.teI@l}/\\
+\cellcolor{gray!6}{degree} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."gri:}/}\\
+field & /1/ & /\textipa{fi:@ld}/\\
 \bottomrule
 \end{longtable}
 
