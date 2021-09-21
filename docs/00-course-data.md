@@ -371,9 +371,8 @@ field & /1/ & /\textipa{fi:@ld}/\\
 Échéances & Description & Jours restants\\
 \midrule
 \cellcolor{gray!6}{28/09/2021} & \cellcolor{gray!6}{ERPC1 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{7 days}\\
-30/09/2021 & ERPC2 : Préparer la présentation orale des résultats de sondage & 9 days\\
-\cellcolor{gray!6}{01/10/2021} & \cellcolor{gray!6}{ERPC2 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{10 days}\\
-05/10/2021 & ERPC3 : Préparer la présentation orale des résultats de sondage & 14 days\\
+01/10/2021 & ERPC2 : Préparer la présentation orale des résultats de sondage & 10 days\\
+\cellcolor{gray!6}{05/10/2021} & \cellcolor{gray!6}{ERPC3 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{14 days}\\
 \bottomrule
 \end{longtable}
 
