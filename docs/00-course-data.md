@@ -210,6 +210,30 @@ un domaine & a field\\
 \cellcolor{gray!6}{en cours, en déroulement} & \cellcolor{gray!6}{ongoing}\\
 \addlinespace
 une commande & an order\\
+\cellcolor{gray!6}{un stagiaire} & \cellcolor{gray!6}{an intern}\\
+s’attendre à qqch & to expect stg\\
+\cellcolor{gray!6}{des résultats clairs} & \cellcolor{gray!6}{clear-cut results}\\
+des résultats mitigés & mixed results\\
+\addlinespace
+\cellcolor{gray!6}{un sondage} & \cellcolor{gray!6}{a poll}\\
+l’écrasante majorité & the overwhelming majority\\
+\cellcolor{gray!6}{une infime majorité} & \cellcolor{gray!6}{a tiny majority}\\
+13 sur 21 & 13 out of 21\\
+\cellcolor{gray!6}{une exigence} & \cellcolor{gray!6}{a requirement}\\
+\addlinespace
+des activités extrascolaires & extracurricular activities\\
+\cellcolor{gray!6}{aller à l’étranger} & \cellcolor{gray!6}{to go abroad}\\
+être satisfait de & to be satisfied with\\
+\cellcolor{gray!6}{équilibré} & \cellcolor{gray!6}{balanced}\\
+un travail à temps complet & a full-time job\\
+\addlinespace
+\cellcolor{gray!6}{un annuaire} & \cellcolor{gray!6}{a phone-book}\\
+la taille & the size\\
+\cellcolor{gray!6}{mélanger} & \cellcolor{gray!6}{to blend}\\
+une feuille & a sheet\\
+\cellcolor{gray!6}{recracher} & \cellcolor{gray!6}{to spit out}\\
+\addlinespace
+le lycée & high school\\
 \bottomrule
 \end{longtable}
 
@@ -282,6 +306,11 @@ Ce document parle de nouveaux processus d'impression. & This document deals with
 Mon entreprise était située à Paris. & My company was located in Paris.\\
 \cellcolor{gray!6}{Je devais venir à 8 heures du matin.} & \cellcolor{gray!6}{I had to come at 8 in the morning.}\\
 J'ai choisi ce document parce que les nouvelles technologies m'intéressent beaucoup. & I chose this document because I'm highly interested in new technologies.\\
+\cellcolor{gray!6}{J’ai démarré ce métier quand j’étais encore au lycée} & \cellcolor{gray!6}{I started in this trade when I was still in high school}\\
+Je suis dans cette entreprise depuis 9 ans. & I’ve been in this company for nine years.\\
+\addlinespace
+\cellcolor{gray!6}{Nous lavons les blanchets, ce qui enlève l’encre et le papier.} & \cellcolor{gray!6}{We wash the blankets, which removes ink and paper}\\
+Nous changeons aussi les plaques de chaque presse. & We also change the plates of each press.\\
 \bottomrule
 \end{longtable}
 
@@ -329,6 +358,21 @@ technician & /010/ & /\textipa{tek."nIS.@n}/\\
 detail & /10/ & /\textipa{"di:.teI@l}/\\
 \cellcolor{gray!6}{degree} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."gri:}/}\\
 field & /1/ & /\textipa{fi:@ld}/\\
+\bottomrule
+\end{longtable}
+
+
+
+##  Échéances 
+
+
+\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\toprule
+Échéances & Description & Jours restants\\
+\midrule
+\cellcolor{gray!6}{28/09/2021} & \cellcolor{gray!6}{ERPC1 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{7 days}\\
+30/09/2021 & ERPC2 : Préparer la présentation orale des résultats de sondage & 9 days\\
+\cellcolor{gray!6}{05/10/2021} & \cellcolor{gray!6}{ERPC3 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{14 days}\\
 \bottomrule
 \end{longtable}
 

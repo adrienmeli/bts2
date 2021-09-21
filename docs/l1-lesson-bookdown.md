@@ -126,3 +126,152 @@ Niveau visé : **B2**
 ### Interaction orale
 
 > "Je peux communiquer avec un degré de spontanéité et d'aisance qui rende possible une interaction normale avec un locuteur natif. Je peux participer activement à une conversation dans des situations familières, présenter et défendre mes opinions."
+
+
+
+## TL;DR
+
+
+
+*(too long, didn't read)*
+ 
+
+ 
+**Pour l'examen :**
+
+* Préparer trois articles :
+  - deux "généralistes"
+  - un "technique"
+
+* Savoir parler de son stage et de son projet professionnel
+
+
+
+## Polls
+
+### Before and during the poll
+
+- Write down everybody's name on a sheet of paper.
+
+- Wait for the teacher to assign you a poll question.
+
+- Ask your poll question to **everybody** in the class (including yourself!).
+
+- Carefully write down the answers next to the students' names.
+
+
+ 
+### After the poll
+
+
+
+**In teams of 3:**
+
+- Find a common point to all your questions.
+- Compile the results of your polls.
+- Get ready to present your results orally.
+  - Do **NOT** use percentages. Simplify your statistics.
+  - Say if there are differences between people with glasses or without.
+- Say whether you belong to the majority opinion or not.
+- Say whether the results surprise you, and why.
+  
+ 
+
+
+ 
+
+\begin{longtable}{ll}
+\toprule
+Français & English\\
+\midrule
+\cellcolor{gray!6}{un stage} & \cellcolor{gray!6}{an internship}\\
+un stagiaire & an intern\\
+\cellcolor{gray!6}{s’attendre à qqch} & \cellcolor{gray!6}{to expect stg}\\
+des résultats clairs & clear-cut results\\
+\cellcolor{gray!6}{des résultats mitigés} & \cellcolor{gray!6}{mixed results}\\
+\addlinespace
+un sondage & a poll\\
+\cellcolor{gray!6}{l’écrasante majorité} & \cellcolor{gray!6}{the overwhelming majority}\\
+une infime majorité & a tiny majority\\
+\cellcolor{gray!6}{13 sur 21} & \cellcolor{gray!6}{13 out of 21}\\
+une exigence & a requirement\\
+\addlinespace
+\cellcolor{gray!6}{un diplôme} & \cellcolor{gray!6}{a degree}\\
+des activités extrascolaires & extracurricular activities\\
+\cellcolor{gray!6}{aller à l’étranger} & \cellcolor{gray!6}{to go abroad}\\
+être satisfait de & to be satisfied with\\
+\cellcolor{gray!6}{équilibré} & \cellcolor{gray!6}{balanced}\\
+\bottomrule
+\end{longtable}
+
+
+
+
+
+### Example
+
+
+
+
+
+\begin{longtable}{l}
+\toprule
+x\\
+\midrule
+\cellcolor{gray!6}{Do you like roquefort}\\
+\bottomrule
+\end{longtable}
+
+
+
+
+\begin{longtable}{l}
+\toprule
+x\\
+\midrule
+\cellcolor{gray!6}{Did you speak English during the summer?}\\
+Do you speak a foreign language at home?\\
+\cellcolor{gray!6}{Did you go abroad during the summer?}\\
+Do you think your internship was interesting?\\
+\cellcolor{gray!6}{Did you interact with customers during your internship?}\\
+\addlinespace
+Would you like to work in the same company as your internship?\\
+\cellcolor{gray!6}{Do you think the requirements of the degree are hard?}\\
+Do you know what you want to do after the BTS?\\
+\cellcolor{gray!6}{After the BTS, do you want to go on studying or get a job?}\\
+Have you got your own computer?\\
+\addlinespace
+\cellcolor{gray!6}{Have you got a good internet connection at home?}\\
+Which is better, online teaching or onsite teaching?\\
+\cellcolor{gray!6}{Did the pandemic affect your life negatively?}\\
+Did the pandemic affect your life positively?\\
+\cellcolor{gray!6}{Do you live alone?}\\
+\addlinespace
+Does it take you more than an hour to go to École Estienne?\\
+\cellcolor{gray!6}{Do you have a student job?}\\
+Do you do any extracurricular activities?\\
+\cellcolor{gray!6}{Are you satisfied with your level of English?}\\
+Do you watch films or series in English?\\
+\addlinespace
+\cellcolor{gray!6}{Are you happy with your option (PP or PI)?}\\
+\bottomrule
+\end{longtable}
+
+
+
+ 
+
+
+## Translation
+
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{8cm}>{\raggedright\arraybackslash}p{8cm}}
+\toprule
+Français & English\\
+\midrule
+\cellcolor{gray!6}{J’ai démarré ce métier quand j’étais encore au lycée} & \cellcolor{gray!6}{I started in this trade when I was still in high school}\\
+Je suis dans cette entreprise depuis 9 ans. & I’ve been in this company for nine years.\\
+\cellcolor{gray!6}{Nous lavons les blanchets, ce qui enlève l’encre et le papier.} & \cellcolor{gray!6}{We wash the blankets, which removes ink and paper}\\
+Nous changeons aussi les plaques de chaque presse. & We also change the plates of each press.\\
+\bottomrule
+\end{longtable}
