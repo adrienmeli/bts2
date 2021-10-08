@@ -234,6 +234,21 @@ une feuille & a sheet\\
 \cellcolor{gray!6}{recracher} & \cellcolor{gray!6}{to spit out}\\
 \addlinespace
 le lycée & high school\\
+\cellcolor{gray!6}{habiter} & \cellcolor{gray!6}{to live}\\
+près de & near\\
+\cellcolor{gray!6}{il y a x mois} & \cellcolor{gray!6}{x months ago}\\
+s'intéresser à & to be interested in\\
+\addlinespace
+\cellcolor{gray!6}{développement durable} & \cellcolor{gray!6}{sustainability}\\
+efficace & efficient\\
+\cellcolor{gray!6}{expliquer} & \cellcolor{gray!6}{to explain}\\
+je devais... & I had to...\\
+\cellcolor{gray!6}{aider} & \cellcolor{gray!6}{to help}\\
+\addlinespace
+avoir l'intention de & to intend to\\
+\cellcolor{gray!6}{obtenir son diplôme} & \cellcolor{gray!6}{to graduate}\\
+continuer & to go on\\
+\cellcolor{gray!6}{traiter de, aborder} & \cellcolor{gray!6}{to deal with}\\
 \bottomrule
 \end{longtable}
 
@@ -311,6 +326,11 @@ Je suis dans cette entreprise depuis 9 ans. & I’ve been in this company for ni
 \addlinespace
 \cellcolor{gray!6}{Nous lavons les blanchets, ce qui enlève l’encre et le papier.} & \cellcolor{gray!6}{We wash the blankets, which removes ink and paper}\\
 Nous changeons aussi les plaques de chaque presse. & We also change the plates of each press.\\
+\cellcolor{gray!6}{J'ai fait mon stage dans une entreprise près de Paris.} & \cellcolor{gray!6}{I did my internship in a company near Paris.}\\
+Mes collègues m'ont aidé(e) et ont expliqué beaucoup de choses. & My colleagues helped me and explained a lot of things.\\
+\cellcolor{gray!6}{L'année prochaine j'ai l'intention de continuer mes études après l'obtention de mon diplôme.} & \cellcolor{gray!6}{Next year I intend to go on studying after graduating.}\\
+\addlinespace
+Je vais maintenant aborder le deuxième document, et je vais le résumer. & I am now going to deal with the second document, and I am going to summarize it.\\
 \bottomrule
 \end{longtable}
 
@@ -358,6 +378,11 @@ technician & /010/ & /\textipa{tek."nIS.@n}/\\
 detail & /10/ & /\textipa{"di:.teI@l}/\\
 \cellcolor{gray!6}{degree} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."gri:}/}\\
 field & /1/ & /\textipa{fi:@ld}/\\
+\addlinespace
+\cellcolor{gray!6}{ago} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."g@U}/}\\
+machine & /01/ & /\textipa{m@."Si:n}/\\
+\cellcolor{gray!6}{before} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{bi."fO:}/}\\
+about & /01/ & /\textipa{@."baUt}/\\
 \bottomrule
 \end{longtable}
 
@@ -366,13 +391,13 @@ field & /1/ & /\textipa{fi:@ld}/\\
 ##  Échéances 
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{28/09/2021} & \cellcolor{gray!6}{ERPC1 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{7 days}\\
-01/10/2021 & ERPC2 : Préparer la présentation orale des résultats de sondage & 10 days\\
-\cellcolor{gray!6}{05/10/2021} & \cellcolor{gray!6}{ERPC3 : Préparer la présentation orale des résultats de sondage} & \cellcolor{gray!6}{14 days}\\
+\cellcolor{gray!6}{28/09/2021} & \cellcolor{gray!6}{ERPC1 : Préparer la présentation orale des résultats de sondage}\\
+01/10/2021 & ERPC2 : Préparer la présentation orale des résultats de sondage\\
+\cellcolor{gray!6}{05/10/2021} & \cellcolor{gray!6}{ERPC3 : Préparer la présentation orale des résultats de sondage}\\
 \bottomrule
 \end{longtable}
 
