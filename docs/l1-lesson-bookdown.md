@@ -4,7 +4,6 @@
  
 \rmfamily
 
-## L'anglais dans le référentiel
 
 
 

@@ -249,6 +249,95 @@ avoir l'intention de & to intend to\\
 \cellcolor{gray!6}{obtenir son diplôme} & \cellcolor{gray!6}{to graduate}\\
 continuer & to go on\\
 \cellcolor{gray!6}{traiter de, aborder} & \cellcolor{gray!6}{to deal with}\\
+a factory & une usine\\
+\addlinespace
+\cellcolor{gray!6}{a warehouse} & \cellcolor{gray!6}{un entrepôt}\\
+permettre & to enable\\
+\cellcolor{gray!6}{un jumeau} & \cellcolor{gray!6}{a twin}\\
+un appareil & a device\\
+\cellcolor{gray!6}{la gestion} & \cellcolor{gray!6}{management}\\
+\addlinespace
+un fabricant & a manufacturer\\
+\cellcolor{gray!6}{transformer} & \cellcolor{gray!6}{to turn into}\\
+cependant & however\\
+\cellcolor{gray!6}{un consommateur} & \cellcolor{gray!6}{a consumer}\\
+une tentative & an attempt\\
+\addlinespace
+\cellcolor{gray!6}{un contenant} & \cellcolor{gray!6}{a container}\\
+sur place & on the spot\\
+\cellcolor{gray!6}{une matière} & \cellcolor{gray!6}{a material}\\
+pourtant & yet\\
+\cellcolor{gray!6}{subir} & \cellcolor{gray!6}{to go through}\\
+\addlinespace
+un changement & a shift\\
+\cellcolor{gray!6}{une guerre} & \cellcolor{gray!6}{a war}\\
+une erreur & a mistake\\
+\cellcolor{gray!6}{knowledge} & \cellcolor{gray!6}{connaissance}\\
+une tendance & a trend\\
+\addlinespace
+\cellcolor{gray!6}{superposé} & \cellcolor{gray!6}{overlaid}\\
+homologues, équivalents & counterparts\\
+\cellcolor{gray!6}{disponible} & \cellcolor{gray!6}{available}\\
+essayer des vêtements & to try on clothes\\
+\cellcolor{gray!6}{célèbre} & \cellcolor{gray!6}{famous}\\
+\addlinespace
+apparaître soudainement & to pop up\\
+\cellcolor{gray!6}{amélioré} & \cellcolor{gray!6}{enhanced}\\
+les producteurs, les diffuseurs & broadcasters\\
+\cellcolor{gray!6}{un meuble} & \cellcolor{gray!6}{a piece of furniture}\\
+convenir, s'adapter & to fit\\
+\addlinespace
+\cellcolor{gray!6}{un casque} & \cellcolor{gray!6}{a helmet}\\
+un chirurgien & a surgeon\\
+\cellcolor{gray!6}{personnel, équipage} & \cellcolor{gray!6}{crew}\\
+accélérer & to speed up\\
+\cellcolor{gray!6}{les temps de chargement} & \cellcolor{gray!6}{loading times}\\
+\addlinespace
+ & cartoon\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{to sway}\\
+ & to score\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{a goal}\\
+ & already\\
+\addlinespace
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{crowded}\\
+ & lenses\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{inescapable}\\
+ & to capture\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{a fountain}\\
+\addlinespace
+ & aside\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{on the loose}\\
+ & housewares\\
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{a visor}\\
+ & sometimes\\
+\addlinespace
+\cellcolor{gray!6}{} & \cellcolor{gray!6}{to wear}\\
+un stage (p...) & a placement\\
+\cellcolor{gray!6}{permettre} & \cellcolor{gray!6}{to allow}\\
+numérique & digital\\
+\cellcolor{gray!6}{impliquer, demander} & \cellcolor{gray!6}{to involve}\\
+\addlinespace
+un défi & a challenge\\
+\cellcolor{gray!6}{gérer} & \cellcolor{gray!6}{to manage}\\
+un soutien & support\\
+\cellcolor{gray!6}{au sein de} & \cellcolor{gray!6}{within}\\
+au cours de & throughout\\
+\addlinespace
+\cellcolor{gray!6}{puisque} & \cellcolor{gray!6}{as}\\
+favoriser & to further\\
+\cellcolor{gray!6}{une carrière} & \cellcolor{gray!6}{a career}\\
+reconnaissant & grateful\\
+\cellcolor{gray!6}{recevoir} & \cellcolor{gray!6}{to receive}\\
+\addlinespace
+postuler à & to apply for\\
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
+être dans l'impossibilité de & to be unable\\
+\cellcolor{gray!6}{reconnaissant (t...)} & \cellcolor{gray!6}{thankful}\\
+conseiller & to advise\\
+\addlinespace
+\cellcolor{gray!6}{un diplômé} & \cellcolor{gray!6}{a graduate}\\
+signifier & to mean\\
+\cellcolor{gray!6}{fournir} & \cellcolor{gray!6}{to provide}\\
 \bottomrule
 \end{longtable}
 
@@ -331,6 +420,14 @@ Mes collègues m'ont aidé(e) et ont expliqué beaucoup de choses. & My colleagu
 \cellcolor{gray!6}{L'année prochaine j'ai l'intention de continuer mes études après l'obtention de mon diplôme.} & \cellcolor{gray!6}{Next year I intend to go on studying after graduating.}\\
 \addlinespace
 Je vais maintenant aborder le deuxième document, et je vais le résumer. & I am now going to deal with the second document, and I am going to summarize it.\\
+\cellcolor{gray!6}{J'ai choisi cet article parce qu'il parle du développement durable.} & \cellcolor{gray!6}{I chose this article because it deals with sustainability.}\\
+Je vais maintenant résumer le deuxième article. & I am now going to summarize the second article.\\
+\cellcolor{gray!6}{Je vais déposer une candidature pour un poste dans cette entreprise.} & \cellcolor{gray!6}{I am going to apply for a job in this company.}\\
+Pendant mon stage, je devais rendre compte à mon tuteur toutes les semaines. & During my internship, I had to report to my tutor every week.\\
+\addlinespace
+\cellcolor{gray!6}{What did you like most? (talking with customers)} & \cellcolor{gray!6}{I liked talking with customers most.}\\
+Would you recommend this internship? (no) & No, I wouldn't (recommend this internship.\\
+\cellcolor{gray!6}{What did you learn? (organisation skills)} & \cellcolor{gray!6}{I learned how to become organized.}\\
 \bottomrule
 \end{longtable}
 
@@ -341,7 +438,7 @@ Je vais maintenant aborder le deuxième document, et je vais le résumer. & I am
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{customer} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k2st.@m.@}/}\\
 company & /100/ & /\textipa{"k2mp.@n.i}/\\
@@ -383,6 +480,35 @@ field & /1/ & /\textipa{fi:@ld}/\\
 machine & /01/ & /\textipa{m@."Si:n}/\\
 \cellcolor{gray!6}{before} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{bi."fO:}/}\\
 about & /01/ & /\textipa{@."baUt}/\\
+\cellcolor{gray!6}{warehouse} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"we@.haUs}/}\\
+\addlinespace
+enable & /010/ & /\textipa{In."eIb.@l}/\\
+\cellcolor{gray!6}{device} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."vaIs}/}\\
+crew & /1/ & /\textipa{kru:}/\\
+\cellcolor{gray!6}{clothes} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{kl@UDz}/}\\
+factory & /10/ & /\textipa{"f\ae k.tri}/\\
+\addlinespace
+\cellcolor{gray!6}{toothpaste} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tu:T.peIst}/}\\
+manufacture & /2010/ & /\textipa{""m\ae n.ju."f\ae k.tS@}/\\
+\cellcolor{gray!6}{however} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{haU."ev.@}/}\\
+consumer & /010/ & /\textipa{k@n."sju:m.@}/\\
+\cellcolor{gray!6}{allow} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."laU}/}\\
+\addlinespace
+receive & /01/ & /\textipa{ri."si:v}/\\
+\cellcolor{gray!6}{digital} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"dIdZ.It.@l}/}\\
+although & /01/ & /\textipa{O:l."D@U}/\\
+\cellcolor{gray!6}{advise} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@d."vaIz}/}\\
+unable & /010/ & /\textipa{2n."eIb.@l}/\\
+\addlinespace
+\cellcolor{gray!6}{graduate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"gr\ae dZ.u.@t}/}\\
+provide & /01/ & /\textipa{pr@."vaId}/\\
+\cellcolor{gray!6}{laminate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"l\ae m.I.neIt}/}\\
+varnish & /10/ & /\textipa{"vA:n.IS}/\\
+\cellcolor{gray!6}{stamp} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{st\ae mp}/}\\
+\addlinespace
+coat & /1/ & /\textipa{k@Ut}/\\
+\cellcolor{gray!6}{technique} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{tek."ni:k}/}\\
+emboss & /01/ & /\textipa{Im."b6s}/\\
 \bottomrule
 \end{longtable}
 
